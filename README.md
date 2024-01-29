@@ -7,6 +7,10 @@ filmes;<br>
 ainda não foi avaliado;<br>
 ● O sistema deve utilizar um banco de dados para armazenar as informações dos
 filmes;<br><br>
+## Build:
+```
+npm start
+```
 
 ## Setar variáveis de ambiente:
 o arquivo *.env.example* é um modelo de variavel de ambiente, após a modificação das variáveis, o arquivo deve ter o nome alterado para *.env*
