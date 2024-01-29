@@ -18,7 +18,7 @@ o arquivo *.env.example* é um modelo de variavel de ambiente, após a modifica�
 
 ## O modelo de banco de dados utilizado foi:
 ```sql
-CREATE TABLE IF NOT EXISTS bancoDeFilmes;
+CREATE DATABASE IF NOT EXISTS bancoDeFilmes;
 USE bancoDeFilmes;
 
 CREATE TABLE filmes (
