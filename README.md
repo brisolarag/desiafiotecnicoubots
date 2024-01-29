@@ -9,6 +9,7 @@ ainda não foi avaliado;<br>
 filmes;<br><br>
 ## Build:
 ```
+npm install
 npm start
 ```
 
